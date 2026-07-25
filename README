@@ -14,7 +14,9 @@ Supports enterprise applications such as ERP, CRM, email, and financial systems.
 Enhances compliance, auditing, and disaster recovery planning.
 Example
 
-A company with 100 employees can use VMware to host Windows Server 2022 as a virtual server. Active Directory allows every employee to log in with one company account, automatically access authorized folders, printers, email, and business applications, while IT administrators centrally manage passwords, permissions, software deployment, and security policies. This reduces downtime, strengthens security, and improves overall operational efficiency.
+A company with 100 employees can use VMware to host Windows Server 2022 as a virtual server. Active Directory allows every employee to log in 
+with one company account, automatically access authorized folders, printers, email, and business applications, while IT administrators centrally manage passwords, 
+permissions, software deployment, and security policies. This reduces downtime, strengthens security, and improves overall operational efficiency.
 
                    Internet
                        │
