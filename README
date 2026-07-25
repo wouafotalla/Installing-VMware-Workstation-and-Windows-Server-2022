@@ -23,9 +23,7 @@
  │ Receives IP from DHCP         │
  └───────────────────────────────┘
 Phase 15: Verify Domain Functionality
-
 To check it I need to test the following:
-
 Log in with a domain user account.
 Create additional users and groups in Active Directory.
 Confirm DNS name resolution.
