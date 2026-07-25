@@ -1,5 +1,7 @@
 Windows Server 2022 & Active Directory
-Installing VMware, Windows Server 2022, and Active Directory creates a centralized IT environment for managing users, computers, security, authentication, and network resources while improving operational efficiency, scalability, reliability, and access control.
+Installing VMware Workstation, Windows Server 2022, and Active Directory Domain Services (AD DS) that enables organizations 
+to create a secure, centralized, and scalable IT infrastructure for handling users, computers, authentication, network 
+resources, and security policies.
 
 Real-life Problem It Solves in a Company
 Centralizes employee account management from one location.
@@ -14,7 +16,7 @@ Supports enterprise applications such as ERP, CRM, email, and financial systems.
 Enhances compliance, auditing, and disaster recovery planning.
 Example
 
-A company with 100 employees can use VMware to host Windows Server 2022 as a virtual server. Active Directory allows every employee to log in 
+A company with more than 50 employees can use VMware to host Windows Server 2022 as a virtual server. Active Directory allows every employee to log in 
 with one company account, automatically access authorized folders, printers, email, and business applications, while IT administrators centrally manage passwords, 
 permissions, software deployment, and security policies. This reduces downtime, strengthens security, and improves overall operational efficiency.
 
